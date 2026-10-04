@@ -1,0 +1,6 @@
+{
+  "name": "FinAudit AI",
+  "description": "Intelligent personal financial auditor, money leakage detector, and Nigerian tax filing assessment engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
